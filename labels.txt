@@ -1,0 +1,2 @@
+0 politic
+1 normal
